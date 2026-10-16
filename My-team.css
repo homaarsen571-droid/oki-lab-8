@@ -1,0 +1,155 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 523px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 0px 2px 8px rgba(128,128,128,1);
+  font-size: 1.5rem;
+  margin: 53px 218px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  margin: -3px auto 0 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 38px;
+  width: 42px;
+  margin: -302px 74px 0 auto;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+  background-image: none;
+}
+
+.u-section-1 .u-text-3 {
+  text-shadow: 0px 2px 8px rgba(128,128,128,1);
+  font-size: 1.875rem;
+  margin: -38px 192px 0 auto;
+}
+
+.u-section-1 .u-social-icons-2 {
+  height: 38px;
+  width: 38px;
+  margin: -91px 77px 0 auto;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  background-image: none;
+}
+
+.u-section-1 .u-social-icons-3 {
+  height: 38px;
+  width: 40px;
+  margin: 15px 76px 60px auto;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 684px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 354px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -9px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -96px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 243px;
+  }
+
+  .u-section-1 .u-social-icons-2 {
+    margin-top: -372px;
+  }
+
+  .u-section-1 .u-social-icons-3 {
+    margin-bottom: -46px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 278px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -86px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.3333333333333333rem;
+    margin-top: 225px;
+    margin-right: 164px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.3333333333333333rem;
+    margin-top: -46px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: -98px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.6666666666666665rem;
+    margin-top: 240px;
+    margin-right: 144px;
+  }
+
+  .u-section-1 .u-social-icons-2 {
+    margin-top: -353px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 396px;
+    margin-right: 103px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -217px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 91px;
+  }
+    .github-link {
+        color: #478ac9;
+        font-size: 0.65em;
+        text-decoration: underline;
+        white-space: nowrap;
+    }
+
+        .github-link:hover,
+        .github-link:focus-visible {
+            color: #2b5e93;
+        }
+    .u-section-1 .u-text-3 {
+        position: relative;
+        left: 25px;
+    }
+}
